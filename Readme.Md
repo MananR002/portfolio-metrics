@@ -15,6 +15,16 @@ A lightweight Node.js library for calculating key portfolio performance metrics.
 npm install portfolio-metrics
 ```
 
+## Quick Demo
+
+Run the included demo script to see all metrics in action:
+
+```bash
+node demo.js
+```
+
+This will output examples for CAGR, XIRR, Sharpe Ratio, and Max Drawdown with sample data.
+
 ## Metrics Guide
 
 ### CAGR (Compound Annual Growth Rate)
